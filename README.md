@@ -18,6 +18,10 @@ Download the newest version of this template, unzip it and open it in a text-edi
 
 Before you deploy your new created WordPress Theme you should be sure, that it works & maybe run [Theme Check](https://wordpress.org/plugins/theme-check/) over it.
 
+## Versioning
+
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/robinwalterfit/wp-theme-template/tags). 
+
 ## Authors
 
 * **Robin Walter** - *Initial work* - [robinwalterfit](https://github.com/robinwalterfit)

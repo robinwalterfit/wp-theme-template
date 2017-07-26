@@ -20,7 +20,7 @@ Before you deploy your new created WordPress Theme you should be sure, that it w
 
 ## Versioning
 
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/robinwalterfit/wp-theme-template/tags). 
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/robinwalterfit/wp-theme-template/tags).
 
 ## Authors
 
